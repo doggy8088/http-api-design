@@ -1,4 +1,4 @@
-### 產物
+### 產出
 
   *  [提供機器可讀的 JSON 大綱](artifacts/provide-machine-readable-json-schema.md)
   *  [提供一般人可讀的文件](artifacts/provide-human-readable-docs.md)
