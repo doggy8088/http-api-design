@@ -1,8 +1,8 @@
 ## 貢獻者
 
-* Wesley Beary <geemus+github@gmail.com>
-* Mark McGranaghan <mmcgrana@gmail.com>
-* Jamu Kakar <jkakar@kakar.ca>
-* Jonathan Roes <jroes@jroes.net>
-* Kuo-Cheng Yeu <kmd@mikuru.tw>
+* [Wesley Beary](mailto:geemus+github@gmail.com)
+* [Mark McGranaghan](mailto:mmcgrana@gmail.com)
+* [Jamu Kakar](mailto:jkakar@kakar.ca)
+* [Jonathan Roes](mailto:jroes@jroes.net)
+* [Kuo-Cheng Yeu](https://github.com/kcyeu)
 
