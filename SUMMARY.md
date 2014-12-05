@@ -7,13 +7,13 @@
   *  [以 Request-Id 追蹤需求](foundations/trace-requests-with-request-ids.md)
   *  [以 Range 分頁](foundations/paginate-with-ranges.md)
 * [需求](requests/README.md)
-  *  [Return appropriate status codes](requests/return-appropriate-status-codes.md)
-  *  [Provide full resources where available](requests/provide-full-resources-where-available.md)
+  *  [回傳適當的狀態碼](requests/return-appropriate-status-codes.md)
+  *  [情況許可時提供全部資源](requests/provide-full-resources-where-available.md)
   *  [Accept serialized JSON in request bodies](requests/accept-serialized-json-in-request-bodies.md)
-  *  [Use consistent path formats](requests/use-consistent-path-formats).
-  *  [Downcase paths and attributes](requests/downcase-paths-and-attributes).
-  *  [Support non-id dereferencing for convenience](requests/support-non-id-dereferencing-for-convenience).
-  *  [Minimize path nesting](requests/minimize-path-nesting.md)
+  *  [使用一致的路徑格式](requests/use-consistent-path-formats.md)
+  *  [小寫路徑與屬性](requests/downcase-paths-and-attributes.md)
+  *  [Support non-id dereferencing for convenience](requests/support-non-id-dereferencing-for-convenience.md)
+  *  [減少巢狀路徑](requests/minimize-path-nesting.md)
 * [回應](responses/README.md)
   *  [Provide resource (UU)IDs](responses/provide-resource-uuids.md)
   *  [Provide standard timestamps](responses/provide-standard-timestamps.md)
