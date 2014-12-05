@@ -1,4 +1,4 @@
-# HTTP API Design Guide
+# HTTP API 設計指南
 
 ## Introduction
 
