@@ -1,5 +1,6 @@
 ## Summary
 
+* [簡介](README.md)
 * [基礎](foundations/README.md)
   *  [要求使用 TLS](foundations/require-tls.md)
   *  [以 Accept 標頭做版本控管](foundations/version-with-accepts-header.md)
