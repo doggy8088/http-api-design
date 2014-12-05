@@ -1,5 +1,4 @@
-## Contributing
+## 貢獻心力
 
-We welcome contributions to this guide and discussion about its
-contents. Please open an issue or pull request on this repository to
-propose a change.
+歡迎對這份指南貢獻心力及對內容提出指教。如需改動請開 
+issue 或提出 pull request。
