@@ -23,8 +23,8 @@
   *  [Show rate limit status](responses/show-rate-limit-status.md)
   *  [Keep JSON minified in all responses](responses/keep-json-minified-in-all-responses.md)
 * [產物](artifacts/README.md)
-  *  [Provide machine-readable JSON schema](artifacts/provide-machine-readable-json-schema.md)
-  *  [Provide human-readable docs](artifacts/provide-human-readable-docs.md)
-  *  [Provide executable examples](artifacts/provide-executable-examples.md)
-  *  [Describe stability](artifacts/describe-stability.md)
+  *  [提供機器可讀的 JSON 大綱](artifacts/provide-machine-readable-json-schema.md)
+  *  [提供一般人可讀的文件](artifacts/provide-human-readable-docs.md)
+  *  [提供執行範例](artifacts/provide-executable-examples.md)
+  *  [描述穩定性](artifacts/describe-stability.md)
 
