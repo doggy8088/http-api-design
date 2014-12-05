@@ -1,21 +1,16 @@
 # HTTP API 設計指南
 
-## Introduction
+## 簡介
 
-This guide describes a set of HTTP+JSON API design practices, originally
-extracted from work on the [Heroku Platform API](https://devcenter.heroku.com/articles/platform-api-reference).
+這份指南講述了出自於 [Heroku Platform API](https://devcenter.heroku.com/articles/platform-api-reference)
+的 HTTP + JSON API 的設計方式。
 
-This guide informs additions to that API and also guides new internal
-APIs at Heroku. We hope it’s also of interest to API designers
-outside of Heroku.
+這份指南除了提到 API 之外，也介紹了 Heroku 內部的 API，希望 Heroku 
+以外的 API 設計者也會感到興趣。
 
-Our goals here are consistency and focusing on business logic while
-avoiding design bikeshedding. We’re looking for _a good, consistent,
-well-documented way_ to design APIs, not necessarily _the only/ideal
-way_.
+我們的目標是一致性並專注在商務邏輯，避免被瑣事耽擱。我們尋求的是 
+_一個健全、一致，且有完整文件的方法_ 來設計 API，而非 _唯一/理想的方法_。
 
-We assume you’re familiar with the basics of HTTP+JSON APIs and won’t
-cover all of the fundamentals of those in this guide.
+我們假設您已熟悉基本的 HTTP + JSON API，所以本指南不會涵蓋所有的基本知識。
 
-We welcome [contributions](CONTRIBUTING.md) to this guide.
-
+歡迎貢獻心力一同為這份指南貢獻心力 [contributions](CONTRIBUTING.md)。
