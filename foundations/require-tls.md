@@ -1,14 +1,7 @@
-#### Require TLS
+#### 要求使用 TLS
 
-Require TLS to access the API, without exception. It’s not worth trying
-to figure out or explain when it is OK to use TLS and when it’s not.
-Just require TLS for everything.
+無例外地要求使用 TLS 存取 API。與其費工夫探討或解釋何時該使用或不該使用 TLS，全部使用 TLS 就對了。
 
-Ideally, simply reject any non-TLS requests by not responding to requests for
-http or port 80 to avoid any insecure data exchange. In environments where this
-is not possible, respond with `403 Forbidden`.
+可以的話，拒絕任何非 TLS 需求，即不回應 HTTP 或 80 port 的需求，藉此避免不安全的資料交換。若環境不許可，則回應 `403 Forbidden`.
 
-Redirects are discouraged since they allow sloppy/bad client behaviour without
-providing any clear gain.  Clients that rely on redirects double up on
-server traffic and render TLS useless since sensitive data will already
- have been exposed during the first call.
+重導是不鼓勵的，因為這允許非正規的客戶端行為卻無任何好處。仰賴重導的客戶端使伺服器流量的加倍，且因機敏資料已於第一次呼叫時曝光，導致 TLS 沒有效果。

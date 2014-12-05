@@ -1,5 +1,3 @@
-#### Trace requests with Request-Ids
+#### 以 Request-Id 追蹤需求
 
-Include a `Request-Id` header in each API response, populated with a
-UUID value. If both the server and client log these values, it will be
-helpful for tracing and debugging requests.
+於每個 API 回應中加入含 UUID 的 `Request-Id` 標頭。如果伺服器端與客戶端都記錄這些值，對於將對需求的追蹤與除錯很有幫助。

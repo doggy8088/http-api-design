@@ -1,11 +1,11 @@
 ## Summary
 
 * [基礎](foundations/README.md)
-  *  [Require TLS](foundations/require-tls.md)
-  *  [Version with Accepts header](foundations/version-with-accepts-header.md)
-  *  [Support caching with Etags](foundations/support-caching-with-etags.md)
-  *  [Trace requests with Request-Ids](foundations/trace-requests-with-request-ids.md)
-  *  [Paginate with ranges](foundations/paginate-with-ranges.md)
+  *  [要求使用 TLS](foundations/require-tls.md)
+  *  [以 Accept 標頭做版本控管](foundations/version-with-accepts-header.md)
+  *  [以 ETag 支援快取](foundations/support-caching-with-etags.md)
+  *  [以 Request-Id 追蹤需求](foundations/trace-requests-with-request-ids.md)
+  *  [以 Range 分頁](foundations/paginate-with-ranges.md)
 * [需求](requests/README.md)
   *  [Return appropriate status codes](requests/return-appropriate-status-codes.md)
   *  [Provide full resources where available](requests/provide-full-resources-where-available.md)

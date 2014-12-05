@@ -1,6 +1,3 @@
-#### Support caching with Etags
+#### 以 Etag 支援快取
 
-Include an `ETag` header in all responses, identifying the specific
-version of the returned resource. The user should be able to check for
-staleness in their subsequent requests by supplying the value in the
-`If-None-Match` header.
+於所有回應加入 `ETag` 標頭，辨別特定版本的回傳資源。使用者需提供 `If-None-Match` 標頭，借此在接下來的需求裡檢查是否過期，
