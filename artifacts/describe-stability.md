@@ -4,5 +4,5 @@
 
 穩定性與變更管理方法參見 [Heroku API compatibility policy](https://devcenter.heroku.com/articles/api-compatibility-policy)。
 
-一旦您的 API 宣告 production-ready 且 stable，不要在該版本做向後不相容的變更。若您需要做向後不相容的變更，請建立新的 API 版號。
+一旦您的 API 宣告穩定版已上線 (production-ready and stable)，不要在該版本做向後不相容的變更。若非得如此，請建立新的 API 版號。
 

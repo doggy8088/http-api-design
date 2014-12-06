@@ -7,4 +7,4 @@ $ export TOKEN=... # acquire from dashboard
 $ curl -is https://$TOKEN@service.com/users
 ```
 
-若您使用 [prmd](https://github.com/interagent/prmd) to 建立 Markdown 文件，您可以直接取得各端點的範例。
+若您使用 [prmd](https://github.com/interagent/prmd) 建立 Markdown 文件，您可以直接取得各端點的範例。
