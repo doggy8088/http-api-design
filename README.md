@@ -17,5 +17,5 @@ API 設計的**終極之道**，但卻是**健全、一致，且有完整文件�
 
 ## 狀態
 
-![Build Status](https://www.gitbook.com/button/status/book/kcyeu/http-api-design-guide-tc/)
+![Build Status](https://www.gitbook.com/button/status/book/kcyeu/http-api-design-guide-tc)
 
