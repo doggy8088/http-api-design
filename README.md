@@ -15,7 +15,3 @@ API 設計的**終極之道**，但卻是**健全、一致，且有完整文件�
 
 歡迎一同為這份指南[貢獻心力](CONTRIBUTING.md)，本書的[貢獻者見此](CONTRIBUTOR.md)。
 
-## 狀態
-
-![Build Status](https://www.gitbook.com/button/status/book/kcyeu/http-api-design-guide-tc)
-
