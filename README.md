@@ -3,7 +3,8 @@
 ## 簡介
 
 這份指南講述出自於 [Heroku Platform API](https://devcenter.heroku.com/articles/platform-api-reference)
-的 HTTP + JSON API 設計方式。
+的 HTTP + JSON API 設計方式，原本的點子來自 [Wesley Beary](https://github.com/geemus) 等人的 
+[HTTP API Design Guide](https://github.com/interagent/http-api-design)。
 
 除了提到 API 本身之外，也介紹了 Heroku 內部 API，希望 Heroku 以外的 
 API 設計者也會感到興趣。
