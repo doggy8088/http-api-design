@@ -22,7 +22,7 @@
   *  [巢狀表示外來鍵關係](responses/nest-foreign-key-relations.md)
   *  [產生結構化的錯誤訊息](responses/generate-structured-errors.md)
   *  [顯示次數限制狀態](responses/show-rate-limit-status.md)
-  *  [記得最小化所有回應中的 JSON](responses/keep-json-minified-in-all-responses.md)
+  *  [保持所有回應中的 JSON 最小化](responses/keep-json-minified-in-all-responses.md)
 * [產出](artifacts/README.md)
   *  [提供機器可讀的 JSON 大綱](artifacts/provide-machine-readable-json-schema.md)
   *  [提供一般人可讀的文件](artifacts/provide-human-readable-docs.md)
