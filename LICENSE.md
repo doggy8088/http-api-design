@@ -1,5 +1,5 @@
-## License
+## 授權
 
-Copyright the [project contributors](CONTRIBUTORS.md).
+版權歸[貢獻者](CONTRIBUTORS.md)所有。
 
-Released under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+本著作係採用 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) 授權條款授權.
