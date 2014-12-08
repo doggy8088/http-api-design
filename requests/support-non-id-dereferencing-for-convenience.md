@@ -8,4 +8,4 @@ $ curl https://service.com/apps/97addcf0-c182
 $ curl https://service.com/apps/www-prod
 ```
 
-不要只接受名稱而排除 ID。
+不要只接受名稱而不採用 ID。
