@@ -1,6 +1,6 @@
 #### 提供標準時間戳記
 
-自預設提供 `created_at` 與 `updated_at` 時間戳記，例如：
+預設提供 `created_at` 與 `updated_at` 時間戳記，例如：
 
 ```javascript
 {
