@@ -14,5 +14,5 @@ API 設計的**終極之道**，但卻是**健全、一致，且有完整文件�
 
 我們假設您已熟悉基本的 HTTP + JSON API，因此本指南不會涵蓋所有的基本知識。
 
-歡迎一同為這份指南[貢獻心力](CONTRIBUTING.md)，本書的[貢獻者見此](CONTRIBUTOR.md)。
+歡迎一同為這份指南[貢獻心力](https://github.com/kcyeu/http-api-design/blob/master/CONTRIBUTING.md)，本書的[貢獻者見此](https://github.com/kcyeu/http-api-design/blob/master/CONTRIBUTORS.md)。
 
