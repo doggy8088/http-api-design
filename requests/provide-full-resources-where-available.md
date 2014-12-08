@@ -18,7 +18,7 @@ Content-Type: application/json;charset=utf-8
 }
 ```
 
-202 回應不會完整呈現全部資源，例如：
+`202` 回應不會完整呈現全部資源，例如：
 
 ```bash
 $ curl -X DELETE \  

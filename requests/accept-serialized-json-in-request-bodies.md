@@ -1,6 +1,6 @@
 #### 接受需求本體的序列化 JSON
 
-於 `PUT`、`PATCH`、`POST` 需求本體接受序列化 JSON，可與表單資料並存，或取代它。這與回應本體的序列化 JSON 取得平衡，例如：
+接受於 `PUT`、`PATCH`、`POST` 需求本體中的序列化 JSON，使其可與表單資料並存，或取代它。這與回應本體的序列化 JSON 相呼應，例如：
 ```bash
 $ curl -X POST https://service.com/apps \
     -H "Content-Type: application/json" \
