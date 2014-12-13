@@ -1,9 +1,9 @@
 {
     "plugins": [
-        "Disqus"
+        "disqus"
     ],
     "pluginsConfig": {
-        "Disqus": {
+        "disqus": {
             "disqus": {
                 "shortName": "http-api-design-guide"
             }
