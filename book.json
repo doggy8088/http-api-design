@@ -2,5 +2,11 @@
     "plugins": [
         "Disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "Disqus": {
+            "disqus": {
+                "shortName": "http-api-design-guide"
+            }
+        }
+    }
 }
