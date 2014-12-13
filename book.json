@@ -4,9 +4,7 @@
     ],
     "pluginsConfig": {
         "disqus": {
-            "disqus": {
-                "shortName": "http-api-design-guide"
-            }
+            "shortName": "http-api-design-guide"
         }
     }
 }
