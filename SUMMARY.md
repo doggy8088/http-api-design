@@ -2,7 +2,7 @@
 
 * [簡介](README.md)
 * [基礎](foundations/README.md)
-  *  [要求使用 TLS](foundations/require-tls.md)
+  *  [要求使用安全連線](foundations/require-secure-connections.md)
   *  [以 Accept 標頭做版本控管](foundations/version-with-accepts-header.md)
   *  [以 ETag 支援快取](foundations/support-etags-for-caching.md)
   *  [以 Request-Id 追蹤需求](foundations/trace-requests-with-request-ids.md)
