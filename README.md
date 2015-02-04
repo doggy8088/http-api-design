@@ -18,7 +18,9 @@ API 設計的**終極之道**，但卻是**健全、一致，且有完整文件�
 
 ## 版本
 
- * 15.01.0
-   * 修訂中
+ * 15.02.0
+   * 新增章節: 基礎/少些顧慮
+   * 潤飾部分章節文句
+   * 對應[版本](https://github.com/interagent/http-api-design/commit/232f8dc6a941d0b25136bf64998242dae5575f66) (232f8dc)
  * 14.12.0
-   * 初版，對應[版本](https://github.com/interagent/http-api-design/commit/c3a69b530274e2f776b2030f9ed790af0f6cbf3d) (c3a69b530274e2f776b2030f9ed790af0f6cbf3d)
+   * 初版，對應[版本](https://github.com/interagent/http-api-design/commit/c3a69b530274e2f776b2030f9ed790af0f6cbf3d) (c3a69b5)
