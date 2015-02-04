@@ -6,7 +6,7 @@
   *  [要求以 Accept 標頭註明版本](foundations/require-versioning-in-the-accepts-header.md)
   *  [以 ETag 支援快取](foundations/support-etags-for-caching.md)
   *  [提供 Request-Id 以便追溯](foundations/provide-request-ids-for-introspection.md)
-  *  [以 Range 分頁](foundations/paginate-with-ranges.md)
+  *  [以 Range 分割資料量大的回應](foundations/divide-large-responses-across-requests-with-ranges.md)
 * [需求](requests/README.md)
   *  [回傳適當的狀態碼](requests/return-appropriate-status-codes.md)
   *  [情況許可時提供全部資源](requests/provide-full-resources-where-available.md)
