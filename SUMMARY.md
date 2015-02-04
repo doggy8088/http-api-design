@@ -2,6 +2,7 @@
 
 * [簡介](README.md)
 * [基礎](foundations/README.md)
+  *  [少些顧慮](foundations/separate-concerns.md)
   *  [要求使用安全連線](foundations/require-secure-connections.md)
   *  [要求以 Accept 標頭註明版本](foundations/require-versioning-in-the-accepts-header.md)
   *  [以 ETag 支援快取](foundations/support-etags-for-caching.md)
